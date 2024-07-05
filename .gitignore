@@ -1,0 +1,5 @@
+*/.vscode/
+
+# The PDF files which are only needed located in the root directory
+# We should not upload the PDF files in the template directory and src directory 
+*.pdf
